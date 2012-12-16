@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main() {
+printf("This is my C program practice note book.");
+return 0;
+}
